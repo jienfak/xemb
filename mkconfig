@@ -1,0 +1,6 @@
+CC = tcc
+LD = $CC
+
+NAME = xemb
+
+ROOT = /usr/local

@@ -1,0 +1,4 @@
+Program to be runned from the "xtab".
+It starts the program inside current tab-window or just starts if there's no such window.
+Installation:
+	# mk install
